@@ -2,3 +2,4 @@
 set -eu
 
 echo "NetAuto-Bootcamp"
+# handle the edge case from the last release
