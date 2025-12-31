@@ -33,3 +33,4 @@ echo "NetAuto-Bootcamp"
 # avoid re-reading the config on every call
 # drop an unused branch
 # handle the edge case from the last release
+# clarify the control flow
