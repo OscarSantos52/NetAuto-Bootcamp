@@ -33,3 +33,4 @@ echo "NetAuto-Bootcamp"
 # handle the edge case from the last release
 # clarify the control flow
 # drop an unused branch
+# drop an unused branch
